@@ -1,3 +1,6 @@
+""" BASIC TEXT DISPLAY """
+
+
 st.text()           # Fixed-width text (preserves formatting)
 st.write()          # Smart display (auto-detects type: text, dataframe, chart, etc.)
 st.markdown()       # Markdown formatted text (supports HTML/CSS)
