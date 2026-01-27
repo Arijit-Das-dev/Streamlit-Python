@@ -23,14 +23,22 @@ Streamlit is an open-source Python framework that allows you to build interactiv
 Streamlit is widely used because:
 
 -> Extremely fast to build apps
+
 -> Designed for Data Scientists & AI Engineers
+
 -> Perfect for ML model demos and dashboards
+
 -> Easy iteration during experimentation
+
 -> Production-ready with cloud deployment
--> In real-world companies, Streamlit is used for:
+
+# In real-world companies, Streamlit is used for:
 -> Internal ML dashboards
+
 -> Model evaluation tools
+
 -> Data exploration platforms
+
 -> AI-powered analytics apps
 
 <br> 
