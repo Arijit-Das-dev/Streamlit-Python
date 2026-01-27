@@ -32,7 +32,7 @@ Streamlit is widely used because:
 
 -> Production-ready with cloud deployment
 
-# In real-world companies, Streamlit is used for:
+In real-world companies, Streamlit is used for:
 -> Internal ML dashboards
 
 -> Model evaluation tools
@@ -48,7 +48,11 @@ Streamlit is widely used because:
 This repository follows a project-first, industry-aligned learning approach:
 
 -> No random “hello world” examples
+
 -> Every concept tied to real-world usage
+
 -> Focus on why, how, and where it’s used
+
 -> Structured from beginner → advanced
+
 -> AI/ML-oriented use cases
