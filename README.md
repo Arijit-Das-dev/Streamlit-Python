@@ -15,9 +15,7 @@ Streamlit is an open-source Python framework that allows you to build interactiv
 4. Dashboards & analytics tools
 
 👉 With Streamlit, you can turn Python scripts into shareable web apps without frontend knowledge (HTML/CSS/JS).
-
 <br>
-
 # 🎯 Why Streamlit?
 
 Streamlit is widely used because:
